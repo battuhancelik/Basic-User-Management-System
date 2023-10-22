@@ -10,10 +10,6 @@ Yapmış olduğum bu proje, python ile geliştirilmiş basit bir veritabanı yö
 - Bilgileri güncelleme işlemi
 - Kayıt silme işlemi
 - Temel veri tabanı yönetimi
-## Katkıda Bulunma
-- Fork yapın 
-- Yeni bir dal oluşturun
-- Değişikliklerinizi yapın ve işlemek üzere bir pull isteği gönderin
-- Pull isteği açın
+
 
 
